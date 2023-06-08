@@ -8,3 +8,8 @@
 	url = https://github.com/assaforon/cir
 	shallow = true
 	registered = true
+[submodule "upndown"]
+	path = upndown
+	url = https://github.com/assaforon/upndown
+	shallow = true
+	registered = true
